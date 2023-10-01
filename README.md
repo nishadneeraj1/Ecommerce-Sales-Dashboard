@@ -1,7 +1,6 @@
 
 # Ecommerce Sales Dashboard
-
-This project developed a web app to extract product reviews from Flipkart using Beautiful Soup 4. The web app allows users to enter the URL of a Flipkart product page and the scraper will extract the reviews for that product. The reviews are then displayed on the web app in a user-friendly format.
+The sales dashboard is a powerful tool that helps businesses track their sales performance and make informed decisions. It provides a comprehensive overview of sales data, including revenue, units sold, conversion rates, and more. The dashboard is interactive and allows users to drill down into specific data points to identify areas of improvement. It also features a variety of customizable visualizations, so that users can tailor the dashboard to their specific needs.
 
 
 
